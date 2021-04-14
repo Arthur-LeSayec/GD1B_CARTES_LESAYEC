@@ -16,6 +16,6 @@ class Monstre{
     int pv;
     int attk;
     bool dispo;
-}
+};
 
 #endif
