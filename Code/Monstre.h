@@ -18,5 +18,4 @@ class Monstre{
     bool dispo;
 }
 
-
 #endif
