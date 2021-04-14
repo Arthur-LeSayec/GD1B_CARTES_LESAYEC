@@ -1,7 +1,7 @@
 #ifndef MONSTRE_CPP
 #define MONSTRE_CPP
 
-#include "Monstre.H"
+#include "Monstre.h"
 #include <iostream>
 
 using namespace std;
